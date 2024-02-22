@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @claudia-iocs
-- 👀 I’m interested in swimming, cycling, travel, TV shows, movies, music
+- 👀 I’m interested in swimming, cycling, traveling, watching TV shows, movies, music
 - 🌱 I’m currently learning Git basics
 - 💞️ I’m looking to collaborate on Git basics
 - 📫 How to reach me by email
